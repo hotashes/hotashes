@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hotashes
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently learning how this site works
-- 💞️ I’m looking to collaborate on coding languages
+- 👀 I’m interested in learning code
+- 🌱 I’m currently learning how this site works, then HTML
+- 💞️ I’m looking to collaborate on coding languages and learn as I go along, to working on my first project.
 - 📫 How to reach me ...
 
 <!---
